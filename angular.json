@@ -26,13 +26,14 @@
                         "styles": [
                             "src/styles.css",
                             "node_modules/bootstrap/dist/css/bootstrap.min.css",
-                            "src/assets/fontawesome/css/all.min.css"
+                            "src/assets/fontawesome/css/all.min.css",
+                            "src/assets/tether/css/tether.scss"
                         ],
                         "scripts": [
                             "node_modules/jquery/dist/jquery.slim.min.js",
                             "node_modules/popper.js/dist/umd/popper.min.js",
                             "node_modules/bootstrap/dist/js/bootstrap.min.js",
-                            "src/assets/tether/tether.js"
+                            "src/assets/tether/js/tether.js"
                         ]
                     },
                     "configurations": {
